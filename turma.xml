@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<turma>
+    <alunos>
+        <aluno>
+            <nome>Pedro</nome>
+            <notas>
+                <nota>5.0</nota>
+                <nota>7.0</nota>
+                <nota>6.0</nota>
+                <nota>8.0</nota>
+            </notas>
+        </aluno>
+    </alunos>
+</turma>
